@@ -1,13 +1,3 @@
-# SparseDrive: End-to-End Autonomous Driving via Sparse Scene Representation
-
-https://github.com/swc-17/SparseDrive/assets/64842878/867276dc-7c19-4e01-9a8e-81c4ed844745
-
-## News
-* **`17 March, 2025`:** SparseDrive is accepted by ICRA 2025.
-* **`24 June, 2024`:** We reorganize code for better readability. Code & Models are released.
-* **`31 May, 2024`:** We release the SparseDrive paper on [arXiv](https://arxiv.org/abs/2405.19620). Code & Models will be released in June, 2024. Please stay tuned!
-
-
 ## Introduction
 > SparseDrive is a Sparse-Centric paradigm for end-to-end autonomous driving.
 - We explore the sparse scene representation for end-to-end autonomous driving and propose a Sparse-Centric paradigm named SparseDrive, which unifies multiple tasks with sparse instance representation.
